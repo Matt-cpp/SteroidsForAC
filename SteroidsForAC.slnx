@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SteroidsForAC.vcxproj" Id="577cfc7d-8f09-44a3-a7ac-e7bcf1e2a41e" />
+</Solution>
